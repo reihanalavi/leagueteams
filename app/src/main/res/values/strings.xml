@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LeagueTeams</string>
+    <array name="league">
+        <item>English%20Premier%20League</item>
+        <item>English%20League%20Championship</item>
+        <item>German%20Bundesliga</item>
+        <item>Italian%20Serie A</item>
+        <item>French%20Ligue 1</item>
+        <item>Spanish%20La%20Liga</item>
+    </array>
+</resources>
